@@ -86,7 +86,7 @@ I design and build modern **web apps**, **desktop software**, and **medical/ente
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samerelouissi/)  
 [![GitHub](https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samer29)  
 📧 **elouissim@gmail.com**  
 
